@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-<!--
-**buhodev/buhodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Carlos. A web developer passionate about teaching, building delightful UIs and tinkering with micro-interactions.
 
+Over the last few years I fell in love with [`Svelte`](https://svelte.dev/) and [`TypeScript`](https://www.typescriptlang.org/).
+
+#### Tools & technologies I mostly work with:
+  
+![list of tools and technologies I work with](https://skillicons.dev/icons?perline=9&i=ts,svelte,html,css,js,nodejs,vscode,vite,astro,git,md,svg,tailwind,postgres,mongodb,sqlite,firebase,supabase,github,figma,vercel,cloudflare)
+
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=buhodev)
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
